@@ -37,8 +37,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Amark0347-DevOps/Amark0347-DevOps/blob/output/snake.svg" alt="Snake animation" />
 
 ###
